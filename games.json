@@ -61,5 +61,20 @@
             "b-bottom3": ["C", "F5"],
             "b-bottom4": ["Select", "F7"]
         }
+    },
+    "Ghostbusters": {
+        "header": "Ghostbusters",
+        "desc": "You manage a team of paranormal hunters across a city map, responding to ghost sightings and capturing spirits before PK energy reaches critical levels. Action scenes shift to side-view traps where you position both Ghostbusters and guide ghosts into the trap without crossing the streams.",
+        "type": "Arcade",
+        "players": "single",
+        "port": "1",
+        "inputs": {
+            "input-1": ["Fire / Accelerate", "JF"],
+            "input-2": ["Drop Trap", "SPACE"],
+            "input-3": ["Choose equipment / Car", "F1"],
+            "input-5": ["B", "F3"],
+            "input-6": ["C", "F5"],
+            "input-7": ["Select", "F7"]
+        }
     }
 }
