@@ -1,4 +1,25 @@
 {
+    "Aardvark": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/aardvark/aardvark_01.png",
+        "desc": "Aardvark is a maze-based action game where reflexes and precision are key. You control an aardvark using its long tongue to collect insects from underground tunnels while avoiding aggressive enemies that can cost you a life. Timing your tongue extensions and retractions is essential to clear each level safely.",
+        "type": "Collect'em Up",
+        "players": "single",
+        "port": "2",
+        "inputs": {
+            "j-up": "JU",
+            "j-down": "DOWN",
+            "j-left": "JL",
+            "j-right": "JR",
+            "b-fire1": "JF",
+            "b-fire2": "JF",
+            "b-cornerleft": "",
+            "b-cornerright": "",
+            "b-bottom1": "F1",
+            "b-bottom2": "F3",
+            "b-bottom3": "F5",
+            "b-bottom4": "F7"
+        }
+    },
     "Fi$tful of Buck$": {
         "header": "https://www.lemon64.com/assets/images/games/screens/a_fistful_of_bucks/a_fistful_of_bucks_01.png",
         "desc": "Fi$tful of Buck$ is an arcade-style western shooter where reflexes and timing are everything. You control a gunslinger navigating through hostile towns and open desert areas, facing waves of enemies intent on stopping you.",
