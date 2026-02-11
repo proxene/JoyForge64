@@ -63,7 +63,7 @@
         }
     },
     "Ghostbusters": {
-        "header": "Ghostbusters",
+        "header": "https://www.lemon64.com/assets/images/games/screens/ghostbusters/ghostbusters_01.png",
         "desc": "You manage a team of paranormal hunters across a city map, responding to ghost sightings and capturing spirits before PK energy reaches critical levels. Action scenes shift to side-view traps where you position both Ghostbusters and guide ghosts into the trap without crossing the streams.",
         "type": "Arcade",
         "players": "single",
