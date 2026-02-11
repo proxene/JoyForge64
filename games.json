@@ -71,10 +71,7 @@
         "inputs": {
             "input-1": ["Fire / Accelerate", "JF"],
             "input-2": ["Drop Trap", "SPACE"],
-            "input-3": ["Choose equipment / Car", "F1"],
-            "input-5": ["B", "F3"],
-            "input-6": ["C", "F5"],
-            "input-7": ["Select", "F7"]
+            "input-3": ["Choose equipment / Car", "F1"]
         }
     }
 }
