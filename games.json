@@ -69,9 +69,13 @@
         "players": "single",
         "port": "1",
         "inputs": {
-            "input-1": ["Fire / Accelerate", "JF"],
-            "input-2": ["Drop Trap", "SPACE"],
-            "input-3": ["Choose equipment", "F1"]
+            "input-1": ["Move UP", "JU"],
+            "input-2": ["Move Down", "JD"],
+            "input-3": ["Move Left", "JL"],
+            "input-4": ["Move Right", "JR"],
+            "input-5": ["Fire / Accelerate", "JF"],
+            "input-6": ["Drop Trap", "SPACE"],
+            "input-7": ["Choose equipment", "F1"]
         }
     }
 }
