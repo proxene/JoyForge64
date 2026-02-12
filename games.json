@@ -10,7 +10,7 @@
             "input-2": ["Move Down", "S", "JD"],
             "input-3": ["Move Left", "A", "JL"],
             "input-4": ["Move Right", "D", "JR"],
-            "input-5": ["Retract Tongue", "LSHIFT", "JF"]
+            "input-5": ["Retract Tongue", "LSHIFT", "JFR"]
         }
     },
     "Fi$tful of Buck$": {
@@ -24,7 +24,7 @@
             "input-2": ["Move Down / Duck", "S", "JD"],
             "input-3": ["Move Left", "A", "JL"],
             "input-4": ["Move Right", "D", "JR"],
-            "input-5": ["Fire / Shoot", "LSHIFT", "JF"],
+            "input-5": ["Fire / Shoot", "LSHIFT", "JFR"],
             "input-6": ["Special Action / Dynamite", "SPACE", "SPACE"]
         }
     },
@@ -39,7 +39,7 @@
             "input-2": ["Move Down", "S", "JD"],
             "input-3": ["Move Left", "A", "JL"],
             "input-4": ["Move Right", "D", "JR"],
-            "input-5": ["Fire / Shoot", "LSHIFT", "JF"]
+            "input-5": ["Fire / Shoot", "LSHIFT", "JFR"]
         }
     },
     "Ghostbusters": {
@@ -53,7 +53,7 @@
             "input-2": ["Move Down", "S", "JD"],
             "input-3": ["Move Left", "A", "JL"],
             "input-4": ["Move Right", "D", "JR"],
-            "input-5": ["Fire / Place Trap / Accelerate", "LSHIFT", "JF"],
+            "input-5": ["Fire / Place Trap / Accelerate", "LSHIFT", "JFR"],
             "input-6": ["Choose equipment", "F1", "Y"],
             "input-7": ["Ghost Bait", "B", "B"]
         }
