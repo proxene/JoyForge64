@@ -6,18 +6,11 @@
         "players": "single",
         "port": "2",
         "inputs": {
-            "j-up": ["Move UP", "JU"],
-            "j-down": ["Move Down", "JD"],
-            "j-left": ["Move Left", "JL"],
-            "j-right": ["Move Right", "JR"],
-            "b-fire1": ["Fire 1", ""],
-            "b-fire2": ["Fire 2", "JF"],
-            "b-cornerleft": ["Top Left", ""],
-            "b-cornerright": ["Top Right", ""],
-            "b-bottom1": ["A", "F1"],
-            "b-bottom2": ["B", "F3"],
-            "b-bottom3": ["C", "F5"],
-            "b-bottom4": ["Select", "F7"]
+            "input-1": ["Move UP", "W", "JU"],
+            "input-2": ["Move Down", "S", "JD"],
+            "input-3": ["Move Left", "A", "JL"],
+            "input-4": ["Move Right", "D", "JR"],
+            "input-5": ["Retract Tongue", "LSHIFT", "JF"]
         }
     },
     "Fi$tful of Buck$": {
@@ -27,18 +20,12 @@
         "players": "single",
         "port": "2",
         "inputs": {
-            "j-up": ["Move UP", "JU"],
-            "j-down": ["Move Down", "JD"],
-            "j-left": ["Move Left", "JL"],
-            "j-right": ["Move Right", "JR"],
-            "b-fire1": ["Fire 1", ""],
-            "b-fire2": ["Fire 2", "JF"],
-            "b-cornerleft": ["Top Left", ""],
-            "b-cornerright": ["Top Right", ""],
-            "b-bottom1": ["A", "F1"],
-            "b-bottom2": ["B", "F3"],
-            "b-bottom3": ["C", "F5"],
-            "b-bottom4": ["Select", "F7"]
+            "input-1": ["Move UP / Jump", "W", "JU"],
+            "input-2": ["Move Down / Duck", "S", "JD"],
+            "input-3": ["Move Left", "A", "JL"],
+            "input-4": ["Move Right", "D", "JR"],
+            "input-5": ["Fire / Shoot", "LSHIFT", "JF"],
+            "input-6": ["Special Action / Dynamite", "SPACE", "SPACE"]
         }
     },
     "Get Off my Garden!": {
@@ -48,18 +35,11 @@
         "players": "single",
         "port": "2",
         "inputs": {
-            "j-up": ["Move UP", "JU"],
-            "j-down": ["Move Down", "JD"],
-            "j-left": ["Move Left", "JL"],
-            "j-right": ["Move Right", "JR"],
-            "b-fire1": ["Fire 1", ""],
-            "b-fire2": ["Fire 2", "JF"],
-            "b-cornerleft": ["Top Left", ""],
-            "b-cornerright": ["Top Right", ""],
-            "b-bottom1": ["A", "F1"],
-            "b-bottom2": ["B", "F3"],
-            "b-bottom3": ["C", "F5"],
-            "b-bottom4": ["Select", "F7"]
+            "input-1": ["Move UP", "W", "JU"],
+            "input-2": ["Move Down", "S", "JD"],
+            "input-3": ["Move Left", "A", "JL"],
+            "input-4": ["Move Right", "D", "JR"],
+            "input-5": ["Fire / Shoot", "LSHIFT", "JF"]
         }
     },
     "Ghostbusters": {
