@@ -147,6 +147,31 @@
             }
         }
     },
+    "Guns 'n' Ghosts": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/guns_n_ghosts/guns_n_ghosts_05.png",
+        "desc": "In Guns 'n' Ghosts, you play as paranormal investigators Trev and Justin in a fast-paced battle against the undead. This modern homebrew hit features single-screen arena combat where you must blast waves of ghosts, skeletons, and bosses. With its smooth animations, power-ups, and a fantastic simultaneous two-player mode, it's a perfect blend of retro arcade feel and modern polish.",
+        "type": "Action / Arena",
+        "port": "2",
+        "players": "2",
+        "inputs": {
+            "player-1": {
+                "input-1": ["Move UP", "W", "JU"],
+                "input-2": ["Move Down", "S", "JD"],
+                "input-3": ["Move Left", "A", "JL"],
+                "input-4": ["Move Right", "D", "JR"],
+                "input-5": ["Fire Weapon", "LSHIFT", "JFR"],
+                "input-6": ["Use Special / Bomb", "SPACE", "Y"]
+            },
+            "player-2": {
+                "input-1": ["Move UP", "I", "JU"],
+                "input-2": ["Move Down", "K", "JD"],
+                "input-3": ["Move Left", "J", "JL"],
+                "input-4": ["Move Right", "L", "JR"],
+                "input-5": ["Fire Weapon", "RSHIFT", "JFR"],
+                "input-6": ["Use Special / Bomb", "CTRL", "Y"]
+            }
+        }
+    },
     "Gremlins": {
         "header": "https://www.lemon64.com/assets/images/games/screens/gremlins_(atari)/gremlins_(atari)_01.png",
         "desc": "Gremlins is an action game based on the 1984 film. In the first stage, you play as Billy Peltzer, running across the screen to catch falling Mogwai before they reach the food and transform. In the second stage, the Mogwai have turned into Gremlins and are hiding behind refrigerators; you must eliminate them with a sword before they multiply and swarm the screen. It's a high-speed test of reflexes across two distinct challenges.",
