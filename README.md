@@ -108,7 +108,7 @@ Multiplayer Example (Two Controllers)
 
 <br />
 
-### 🕹️ C64 Slot (Mapping ID)
+### 🕹️ C64 Joystick (Mapping ID)
 | ID   | Description      |
 |-------|------------------|
 | JU    | Joystick Up      |
