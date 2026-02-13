@@ -59,6 +59,29 @@
             }
         }
     },
+    "Dig Dug": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/dig_dug/dig_dug_01.png",
+        "desc": "The 1983 Atarisoft classic brings the hit arcade game to the C64. As Dig Dug, you must tunnel through the earth and eliminate the Pookas and Fygars that lurk underground. You can either pump them full of air until they explode or drop heavy rocks to crush them. This version is a nostalgic staple of the C64 library, known for its catchy music and addictive gameplay loop.",
+        "type": "Action",
+        "port": "2",
+        "players": "2",
+        "inputs": {
+            "player-1": {
+                "input-1": ["Move UP", "W", "JU"],
+                "input-2": ["Move Down", "S", "JD"],
+                "input-3": ["Move Left", "A", "JL"],
+                "input-4": ["Move Right", "D", "JR"],
+                "input-5": ["Pump / Fire", "LSHIFT", "JFR"]
+            },
+            "player-2": {
+                "input-1": ["Move UP", "I", "JU"],
+                "input-2": ["Move Down", "K", "JD"],
+                "input-3": ["Move Left", "J", "JL"],
+                "input-4": ["Move Right", "L", "JR"],
+                "input-5": ["Pump / Fire", "RSHIFT", "JFR"]
+            }
+        }
+    },
     "Fi$tful of Buck$": {
         "header": "https://www.lemon64.com/assets/images/games/screens/a_fistful_of_bucks/a_fistful_of_bucks_01.png",
         "desc": "Fi$tful of Buck$ is an arcade-style western shooter where reflexes and timing are everything. You control a gunslinger navigating through hostile towns and open desert areas, facing waves of enemies intent on stopping you.",
@@ -87,6 +110,40 @@
                 "input-1": ["Move Left", "A", "JL"],
                 "input-2": ["Move Right", "D", "JR"],
                 "input-3": ["Fire / Shoot", "LSHIFT", "JFR"]
+            }
+        }
+    },
+    "Galaga (Arlasoft)": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/galaga_(arlasoft)/galaga_(arlasoft)_01.png",
+        "desc": "This 2024 conversion by Arlasoft is a highly accurate port of the original Namco arcade classic. Defend your ship against relentless waves of insect-like aliens that dive-bomb and capture your fighter. This version captures the exact enemy behaviors, fire rates, and 'Challenging Stages' of the arcade, offering the most authentic Galaga experience on the Commodore 64.",
+        "type": "Shoot 'em Up",
+        "port": "2",
+        "players": "2",
+        "inputs": {
+            "player-1": {
+                "input-1": ["Move Left", "A", "JL"],
+                "input-2": ["Move Right", "D", "JR"],
+                "input-3": ["Fire / Shoot", "LSHIFT", "JFR"]
+            },
+            "player-2": {
+                "input-1": ["Move Left", "J", "JL"],
+                "input-2": ["Move Right", "L", "JR"],
+                "input-3": ["Fire / Shoot", "RSHIFT", "JFR"]
+            }
+        }
+    },
+    "Galencia": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/galencia/galencia_03.png",
+        "desc": "A breathtaking modern tribute to Galaga, Galencia brings elite production values to the C64. Battle through 50 levels of insectoid swarms, featuring boss fights, challenging bonus rounds, and beautiful starfield effects. With its polished graphics and pulse-pounding soundtrack, it’s often cited as the gold standard for modern arcade experiences on 8-bit hardware.",
+        "type": "Shoot 'em Up",
+        "port": "2",
+        "players": "1",
+        "inputs": {
+            "player-1": {
+                "input-1": ["Move Left", "A", "JL"],
+                "input-2": ["Move Right", "D", "JR"],
+                "input-3": ["Fire / Shoot", "LSHIFT", "JFR"],
+                "input-4": ["Pause", "P", "Y"]
             }
         }
     },
@@ -393,6 +450,21 @@
                 "input-4": ["Aim Right", "D", "JR"],
                 "input-5": ["Fire Lasers", "LSHIFT", "JFR"],
                 "input-6": ["Shields / Status", "SPACE", "Y"]
+            }
+        }
+    },
+    "Super Bread Box": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/super_bread_box/super_bread_box_05.png",
+        "desc": "An official and incredibly frantic port of Super Crate Box. The goal is simple but deadly: collect as many crates as possible to increase your score. Every crate you pick up instantly swaps your weapon, forcing you to adapt your strategy on the fly. It's a high-speed, chaotic arena shooter that demands perfect reflexes and a bit of luck with the weapon drops.",
+        "type": "Action / Arena",
+        "port": "2",
+        "players": "1",
+        "inputs": {
+            "player-1": {
+                "input-1": ["Jump", "W", "JU"],
+                "input-2": ["Move Left", "A", "JL"],
+                "input-3": ["Move Right", "D", "JR"],
+                "input-4": ["Fire Weapon", "LSHIFT", "JFR"]
             }
         }
     },
