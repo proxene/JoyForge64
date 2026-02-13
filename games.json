@@ -109,6 +109,21 @@
             }
         }
     },
+    "Pitfall!": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/pitfall/pitfall_01.png",
+        "desc": "In Pitfall!, you guide Pitfall Harry through a perilous jungle to recover 32 treasures within a 20-minute time limit. You must swing on vines, leap over pits, and avoid deadly obstacles like scorpions, crocodiles, and rolling logs. Navigating both the surface and the underground tunnels is key to finding the most efficient path through the 255 screens of adventure.",
+        "type": "Platformer",
+        "port": "2",
+        "inputs": {
+            "player-1": {
+                "input-1": ["Climb Up", "W", "JU"],
+                "input-2": ["Climb Down / Duck", "S", "JD"],
+                "input-3": ["Move Left", "A", "JL"],
+                "input-4": ["Move Right", "D", "JR"],
+                "input-5": ["Jump", "LSHIFT", "JFR"]
+            }
+        }
+    },
     "Pitstop II": {
         "header": "https://www.lemon64.com/assets/images/games/screens/pitstop_2/pitstop_2_01.png",
         "desc": "You pilot an F1 car in split-screen, balancing high-speed racing with resource strategy. Beyond overtaking rivals, you must monitor tire wear and fuel, triggering manual pit stops where you control the crew to refuel and swap tires quickly before jumping back into the heat of the race.",
