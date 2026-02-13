@@ -14,6 +14,26 @@
             }
         }
     },
+    "Bubble Bobble": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/bubble_bobble/bubble_bobble_01.png",
+        "desc": "Control the bubble-blowing dragons Bub and Bob in this legendary arcade platformer. Your mission is to rescue their girlfriends by navigating 100 levels of monsters. Trap enemies in bubbles and pop them to progress, while collecting fruit and power-ups for high scores. Cooperative play is the heart of the experience, as you work together to discover hidden secrets and the true ending.",
+        "type": "Platformer",
+        "port": "2",
+        "inputs": {
+            "player-1": {
+                "input-1": ["Jump", "W", "JU"],
+                "input-2": ["Move Left", "A", "JL"],
+                "input-3": ["Move Right", "D", "JR"],
+                "input-4": ["Fire / Blow Bubble", "LSHIFT", "JFR"]
+            },
+            "player-2": {
+                "input-1": ["Jump", "I", "JU"],
+                "input-2": ["Move Left", "J", "JL"],
+                "input-3": ["Move Right", "L", "JR"],
+                "input-4": ["Fire / Blow Bubble", "RSHIFT", "JFR"]
+            }
+        }
+    },
     "Fi$tful of Buck$": {
         "header": "https://www.lemon64.com/assets/images/games/screens/a_fistful_of_bucks/a_fistful_of_bucks_01.png",
         "desc": "Fi$tful of Buck$ is an arcade-style western shooter where reflexes and timing are everything. You control a gunslinger navigating through hostile towns and open desert areas, facing waves of enemies intent on stopping you.",
