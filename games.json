@@ -62,6 +62,24 @@
             }
         }
     },
+    "Maniac Mansion": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/maniac_mansion/maniac_mansion_01.png",
+        "desc": "Maniac Mansion is the revolutionary adventure game that introduced the SCUMM system. You lead a group of three teenagers infiltrating Dr. Fred's mansion to rescue Sandy. The game features multiple playable characters with unique abilities, several possible endings, and quirky humor, all managed through an action-verb interface.",
+        "type": "Adventure",
+        "port": "1",
+        "inputs": {
+            "player-1": {
+                "input-1": ["Move Cursor UP", "W", "JU"],
+                "input-2": ["Move Cursor Down", "S", "JD"],
+                "input-3": ["Move Cursor Left", "A", "JL"],
+                "input-4": ["Move Cursor Right", "D", "JR"],
+                "input-5": ["Select / Interact", "LSHIFT", "JFR"],
+                "input-6": ["Switch Character", "F1", "Y"],
+                "input-7": ["Unlock Cursor (Free Move)", "F3", "X"],
+                "input-8": ["Quick Save", "F5", "A"]
+            }
+        }
+    },
     "Pitstop II": {
         "header": "https://www.lemon64.com/assets/images/games/screens/pitstop_2/pitstop_2_01.png",
         "desc": "You pilot an F1 car in split-screen, balancing high-speed racing with resource strategy. Beyond overtaking rivals, you must monitor tire wear and fuel, triggering manual pit stops where you control the crew to refuel and swap tires quickly before jumping back into the heat of the race.",
