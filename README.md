@@ -46,25 +46,47 @@ Copy, complete, and paste the following JSON into your Issue:
     "Game Title": {
         "header": "Picture URL",
         "desc": "Game Description",
-        "type": "Game Type",
-        "players": "single or multi",
-        "port": "Joystick port 1 or 2",
+        "type": "Game Genre",
+        "port": "2",
+        "players": "1",
         "inputs": {
-            "j-up": ["Move UP", "JU"],
-            "j-down": ["Move Down", "JD"],
-            "j-left": ["Move Left", "JL"],
-            "j-right": ["Move Right", "JR"],
-            "b-fire1": ["Fire 1", ""],
-            "b-fire2": ["Fire 2", "JF"],
-            "b-cornerleft": ["Top Left", ""],
-            "b-cornerright": ["Top Right", ""],
-            "b-bottom1": ["A", "F1"],
-            "b-bottom2": ["B", "F3"],
-            "b-bottom3": ["C", "F5"],
-            "b-bottom4": ["Select", "F7"]
+            "player-1": {
+                "input-1": ["Move Up", "W", "JU"],
+                "input-2": ["Move Down", "S", "JD"],
+                "input-3": ["Move Left", "A", "JL"],
+                "input-4": ["Move Right", "D", "JR"],
+                "input-5": ["Fire", "LSHIFT", "JFR"]
+            }
         }
     }
 }
+```
+
+Multiplayer Example (Two Controllers)
+
+```json
+{
+    "Example Multiplayer Game": {
+        "header": "Picture URL",
+        "desc": "Game description here.",
+        "type": "Arcade",
+        "port": "2",
+        "players": "2",
+        "inputs": {
+            "player-1": {
+                "input-1": ["Move Up", "W", "JU"],
+                "input-2": ["Move Down", "S", "JD"],
+                "input-3": ["Fire", "LSHIFT", "JFR"]
+            },
+            "player-2": {
+                "input-1": ["Move Up", "I", "JU"],
+                "input-2": ["Move Down", "K", "JD"],
+                "input-3": ["Fire", "RSHIFT", "JFR"]
+            }
+        }
+    }
+}
+
 ```
 
 <br />
@@ -75,8 +97,8 @@ Copy, complete, and paste the following JSON into your Issue:
 - `header` URL to the game's main image.
 - `desc` Short description of the game.
 - `type` Game genre (Platformer, Shooter, Puzzle, etc.).
-- `players` Must be either `single` or `multi`.
 - `port` Joystick port used: `1` or `2`.
+- `players` Must be either `1` or `2`.
 - `inputs` Control mapping configuration for the game.
 
 <br />
