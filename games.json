@@ -23,18 +23,21 @@
         "players": "2",
         "inputs": {
             "player-1": {
-                "input-1": ["Jump / Climb Up", "W", "JU"],
-                "input-2": ["Duck / Climb Down", "S", "JD"],
-                "input-3": ["Move Left", "A", "JL"],
-                "input-4": ["Move Right", "D", "JR"],
-                "input-5": ["Attack (Punch/Kick)", "LSHIFT", "JFR"]
+                "input-1": ["Jump / Climb Up", "JU", "JU"],
+                "input-2": ["Duck / Climb Down", "JD", "JD"],
+                "input-3": ["Move Left", "JL", "JL"],
+                "input-4": ["Move Right", "JR", "JR"],
+                "input-5": ["Attack (Punch/Kick)", "JF", "JFR"],
+                "input-6": ["Select Players", "F3", "X"],
+                "input-7": ["Select Gameplay", "F5", "A"],
+                "input-8": ["Start Game", "F7", "B"],
             },
             "player-2": {
-                "input-1": ["Jump / Climb Up", "I", "JU"],
-                "input-2": ["Duck / Climb Down", "K", "JD"],
-                "input-3": ["Move Left", "J", "JL"],
-                "input-4": ["Move Right", "L", "JR"],
-                "input-5": ["Attack (Punch/Kick)", "RSHIFT", "JFR"]
+                "input-1": ["Jump / Climb Up", "JU", "JU"],
+                "input-2": ["Duck / Climb Down", "JD", "JD"],
+                "input-3": ["Move Left", "JL", "JL"],
+                "input-4": ["Move Right", "JR", "JR"],
+                "input-5": ["Attack (Punch/Kick)", "JF", "JFR"]
             }
         }
     },
@@ -171,11 +174,11 @@
         "players": "1",
         "inputs": {
             "player-1": {
-                "input-1": ["Move UP", "W", "JU"],
-                "input-2": ["Move Down", "S", "JD"],
-                "input-3": ["Move Left", "A", "JL"],
-                "input-4": ["Move Right", "D", "JR"],
-                "input-5": ["Fire / Place Trap / Accelerate", "LSHIFT", "JFR"],
+                "input-1": ["Move UP", "JU", "JU"],
+                "input-2": ["Move Down", "JD", "JD"],
+                "input-3": ["Move Left", "JL", "JL"],
+                "input-4": ["Move Right", "JR", "JR"],
+                "input-5": ["Fire / Place Trap / Accelerate", "JF", "JFR"],
                 "input-6": ["Choose equipment", "F1", "Y"],
                 "input-7": ["Ghost Bait", "B", "B"]
             }
