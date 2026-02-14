@@ -19,7 +19,7 @@
         "header": "https://www.lemon64.com/assets/images/games/screens/bruce_lee/bruce_lee_01.png",
         "desc": "In Bruce Lee, you must infiltrate a wizard's tower to claim his legendary fortune. This hybrid of platformer and brawler tasks you with collecting lanterns to open new passages while fighting off a relentless Ninja and the hulking Green Yamo. With its fast-paced action and the ability for a second player to control one of the antagonists, it remains one of the most fun and fluid experiences on the C64.",
         "type": "Platformer / Fighting",
-        "port": "2",
+        "port": "1",
         "players": "2",
         "inputs": {
             "player-1": {
@@ -28,9 +28,9 @@
                 "input-3": ["Move Left", "JL", "JL"],
                 "input-4": ["Move Right", "JR", "JR"],
                 "input-5": ["Attack (Punch/Kick)", "JF", "JFR"],
-                "input-6": ["Select Players", "F3", "X"],
-                "input-7": ["Select Gameplay", "F5", "A"],
-                "input-8": ["Start Game", "F7", "B"]
+                "input-6": ["Select Players", "F3", "Y"],
+                "input-7": ["Select Gameplay", "F5", "X"],
+                "input-8": ["Start Game", "F7", "A"]
             },
             "player-2": {
                 "input-1": ["Jump / Climb Up", "JU", "JU"],
