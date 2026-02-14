@@ -30,7 +30,7 @@
                 "input-5": ["Attack (Punch/Kick)", "JF", "JFR"],
                 "input-6": ["Select Players", "F3", "X"],
                 "input-7": ["Select Gameplay", "F5", "A"],
-                "input-8": ["Start Game", "F7", "B"],
+                "input-8": ["Start Game", "F7", "B"]
             },
             "player-2": {
                 "input-1": ["Jump / Climb Up", "JU", "JU"],
