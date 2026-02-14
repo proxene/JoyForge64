@@ -7,11 +7,11 @@
         "players": "1",
         "inputs": {
             "player-1": {
-                "input-1": ["Move UP", "W", "JU"],
-                "input-2": ["Move Down", "S", "JD"],
-                "input-3": ["Move Left", "A", "JL"],
-                "input-4": ["Move Right", "D", "JR"],
-                "input-5": ["Retract Tongue", "LSHIFT", "JFR"]
+                "input-1": ["Move UP", "JU", "JU"],
+                "input-2": ["Move Down", "JD", "JD"],
+                "input-3": ["Move Left", "JL", "JL"],
+                "input-4": ["Move Right", "JR", "JR"],
+                "input-5": ["Retract Tongue", "JF", "JFR"]
             }
         }
     },
