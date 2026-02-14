@@ -169,7 +169,7 @@
                 "input-1": ["Move Left", "JL", "JL"],
                 "input-2": ["Move Right", "JR", "JR"],
                 "input-3": ["Fire / Shoot", "JF", "JFR"],
-                "input-4": ["Launch Shuttle (Bonus)", "TR", "TR"]
+                "input-4": ["Launch Shuttle (Bonus)", "TR", "TR"],
                 "input-5": ["Pause", "PAUSE", "A"]
             }
         }
