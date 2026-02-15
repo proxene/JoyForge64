@@ -18,7 +18,7 @@
     "Bruce Lee": {
         "header": "https://www.lemon64.com/assets/images/games/screens/bruce_lee/bruce_lee_01.png",
         "desc": "In Bruce Lee, you must infiltrate a wizard's tower to claim his legendary fortune. This hybrid of platformer and brawler tasks you with collecting lanterns to open new passages while fighting off a relentless Ninja and the hulking Green Yamo. With its fast-paced action and the ability for a second player to control one of the antagonists, it remains one of the most fun and fluid experiences on the C64.",
-        "type": "Platformer / Fighting",
+        "type": "Fighting",
         "port": "2",
         "players": "2",
         "inputs": {
@@ -504,7 +504,7 @@
     "Super Bread Box": {
         "header": "https://www.lemon64.com/assets/images/games/screens/super_bread_box/super_bread_box_05.png",
         "desc": "An official and incredibly frantic port of Super Crate Box. The goal is simple but deadly: collect as many crates as possible to increase your score. Every crate you pick up instantly swaps your weapon, forcing you to adapt your strategy on the fly. It's a high-speed, chaotic arena shooter that demands perfect reflexes and a bit of luck with the weapon drops.",
-        "type": "Action / Arena",
+        "type": "Action",
         "port": "2",
         "players": "1",
         "inputs": {
