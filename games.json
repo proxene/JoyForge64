@@ -476,7 +476,7 @@
         "type": "Platformer",
         "port": "2",
         "players": "1",
-        "added": 1771172594,
+        "added": 1771173622,
         "inputs": {
             "player-1": {
                 "input-1": ["Look Up / Jump", "W", "JU"],
