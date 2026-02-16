@@ -280,6 +280,27 @@
             }
         }
     },
+    "Gunship": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/gunship/gunship_01.png",
+        "desc": "Gunship is a combat helicopter simulation where you pilot an AH-64 Apache through strategic missions including tank assaults, convoy interceptions, and base strikes. The game blends arcade shooting with light simulation elements such as weapon systems and radar management.",
+        "type": "Simulation",
+        "port": "2",
+        "players": "1",
+        "added": 1771193008,
+        "inputs": {
+            "player-1": {
+                "input-1": ["Pitch Forward", "JU", "JU"],
+                "input-2": ["Pitch Back", "JD", "JD"],
+                "input-3": ["Turn Left", "JL", "JL"],
+                "input-4": ["Turn Right", "JR", "JR"],
+                "input-5": ["Fire Cannon / Weapon", "JF", "JFR"],
+                "input-6": ["Radar / View Mode", "V", "TL"],
+                "input-7": ["Change Weapon", "W", "TR"],
+                "input-8": ["Map / Tactical Display", "M", "A"],
+                "input-9": ["Pause", "SPACE", "B"]
+            }
+        }
+    },
     "Gremlins": {
         "header": "https://www.lemon64.com/assets/images/games/screens/gremlins_(atari)/gremlins_(atari)_01.png",
         "desc": "Gremlins is an action game based on the 1984 film. In the first stage, you play as Billy Peltzer, running across the screen to catch falling Mogwai before they reach the food and transform. In the second stage, the Mogwai have turned into Gremlins and are hiding behind refrigerators; you must eliminate them with a sword before they multiply and swarm the screen. It's a high-speed test of reflexes across two distinct challenges.",
