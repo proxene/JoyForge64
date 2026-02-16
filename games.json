@@ -544,8 +544,9 @@
                 "input-4": ["Roll Right / Move Right", "JR", "JR"],
                 "input-5": ["Fire Lasers / Interact", "JF", "JFL"],
                 "input-6": ["Navigation Map", "N", "JFR"],
-                "input-7": ["Accelerate", "Z", "A"],
-                "input-8": ["Decelerate", "X", "B"]
+                "input-7": ["Accelerate", "Z", "TL"],
+                "input-8": ["Decelerate", "X", "TR"],
+                "input-9": ["Confirm", "EN", "A"]
             }
         }
     },
