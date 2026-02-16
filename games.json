@@ -542,8 +542,8 @@
                 "input-2": ["Pitch Up / Move Down", "JD", "JD"],
                 "input-3": ["Roll Left / Move Left", "JL", "JL"],
                 "input-4": ["Roll Right / Move Right", "JR", "JR"],
-                "input-5": ["Fire Lasers / Interact", "FR", "JFR"],
-                "input-6": ["Navigation Map", "M", "JFL"],
+                "input-5": ["Fire Lasers / Interact", "JF", "JFL"],
+                "input-6": ["Navigation Map", "N", "JFR"],
                 "input-7": ["Accelerate", "Z", "A"],
                 "input-8": ["Decelerate", "X", "B"]
             }
