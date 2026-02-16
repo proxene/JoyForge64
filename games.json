@@ -613,6 +613,7 @@
         "type": "Platformer",
         "port": "2",
         "players": "1",
+        "added": 1771241741,
         "inputs": {
             "player-1": {
                 "input-3": ["Climb / Enter", "JU", "JU"],
