@@ -520,12 +520,12 @@
         "added": 1771173622,
         "inputs": {
             "player-1": {
-                "input-1": ["Look Up / Jump", "W", "JU"],
-                "input-2": ["Crouch / Spin Dash", "S", "JD"],
-                "input-3": ["Move Left", "A", "JL"],
-                "input-4": ["Move Right", "D", "JR"],
-                "input-5": ["Jump", "LSHIFT", "JFR"],
-                "input-6": ["Pause", "P", "Y"]
+                "input-1": ["Look Up / Jump", "JU", "JU"],
+                "input-2": ["Crouch / Spin Dash", "JD", "JD"],
+                "input-3": ["Move Left", "JL", "JL"],
+                "input-4": ["Move Right", "JR", "JR"],
+                "input-5": ["Jump", "JF", "JFR"],
+                "input-6": ["Pause", "P", "A"]
             }
         }
     },
@@ -538,15 +538,14 @@
         "added": 1771172594,
         "inputs": {
             "player-1": {
-                "input-1": ["Pitch Down / Move UP", "W", "JU"],
-                "input-2": ["Pitch Up / Move Down", "S", "JD"],
-                "input-3": ["Roll Left / Move Left", "A", "JL"],
-                "input-4": ["Roll Right / Move Right", "D", "JR"],
-                "input-5": ["Fire Lasers / Interact", "LSHIFT", "JFR"],
-                "input-6": ["Accelerate", "Z", "Y"],
-                "input-7": ["Decelerate", "X", "X"],
-                "input-8": ["Cycle Targets", "T", "A"],
-                "input-9": ["Navigation Map", "M", "B"]
+                "input-1": ["Pitch Down / Move UP", "JU", "JU"],
+                "input-2": ["Pitch Up / Move Down", "JD", "JD"],
+                "input-3": ["Roll Left / Move Left", "JL", "JL"],
+                "input-4": ["Roll Right / Move Right", "JR", "JR"],
+                "input-5": ["Fire Lasers / Interact", "FR", "JFR"],
+                "input-6": ["Navigation Map", "M", "JFL"],
+                "input-7": ["Accelerate", "Z", "A"],
+                "input-8": ["Decelerate", "X", "B"]
             }
         }
     },
@@ -559,12 +558,36 @@
         "added": 1771172594,
         "inputs": {
             "player-1": {
-                "input-1": ["Aim UP", "W", "JU"],
-                "input-2": ["Aim Down", "S", "JD"],
-                "input-3": ["Aim Left", "A", "JL"],
-                "input-4": ["Aim Right", "D", "JR"],
-                "input-5": ["Fire Lasers", "LSHIFT", "JFR"],
-                "input-6": ["Shields / Status", "SPACE", "Y"]
+                "input-1": ["Aim UP", "JU", "JU"],
+                "input-2": ["Aim Down", "JD", "JD"],
+                "input-3": ["Aim Left", "JL", "JL"],
+                "input-4": ["Aim Right", "JR", "JR"],
+                "input-5": ["Fire Lasers", "JF", "JFR"],
+                "input-6": ["Shields / Status", "SPACE", "A"]
+            }
+        }
+    },
+    "Summer Games": {
+        "header": "https://www.lemon64.com/assets/images/games/screens/summer_games/summer_games_01.png",
+        "desc": "Summer Games is a multi-event sports classic by Epyx. Compete across several Olympic-style disciplines using joystick timing, rhythm, and precision. Supports up to 8 players, with optional head-to-head play using two joysticks in running and swimming events.",
+        "type": "Sports",
+        "port": "2",
+        "players": "8",
+        "added": 1771241741,
+        "inputs": {
+            "player-1": {
+                "input-1": ["Move UP", "JU", "JU"],
+                "input-2": ["Move Down", "JD", "JD"],
+                "input-3": ["Move Left", "JL", "JL"],
+                "input-4": ["Move Right", "JR", "JR"],
+                "input-5": ["Action / Select", "JF", "JFR"]
+            },
+            "player-2": {
+                "input-1": ["Move UP", "JU", "JU"],
+                "input-2": ["Move Down", "JD", "JD"],
+                "input-3": ["Move Left", "JL", "JL"],
+                "input-4": ["Move Right", "JR", "JR"],
+                "input-5": ["Action / Select", "JF", "JFR"]
             }
         }
     },
@@ -577,10 +600,10 @@
         "added": 1771172594,
         "inputs": {
             "player-1": {
-                "input-1": ["Jump", "W", "JU"],
-                "input-2": ["Move Left", "A", "JL"],
-                "input-3": ["Move Right", "D", "JR"],
-                "input-4": ["Fire Weapon", "LSHIFT", "JFR"]
+                "input-1": ["Jump", "JU", "JU"],
+                "input-2": ["Move Left", "JL", "JL"],
+                "input-3": ["Move Right", "JR", "JR"],
+                "input-4": ["Fire Weapon", "JF", "JFR"]
             }
         }
     },
@@ -593,14 +616,14 @@
         "added": 1771172594,
         "inputs": {
             "player-1": {
-                "input-1": ["Jump / Fly Up", "W", "JU"],
-                "input-2": ["Crouch / Fly Down", "S", "JD"],
-                "input-3": ["Move Left", "A", "JL"],
-                "input-4": ["Move Right", "D", "JR"],
-                "input-5": ["Fire / Shoot", "LSHIFT", "JFR"],
-                "input-6": ["Gyroscope (Morph)", "SPACE", "Y"],
-                "input-7": ["Power Line (Special)", "X", "X"],
-                "input-8": ["Super Bomb", "B", "B"]
+                "input-1": ["Jump / Fly Up", "JU", "JU"],
+                "input-2": ["Crouch / Fly Down", "JD", "JD"],
+                "input-3": ["Move Left", "JL", "JL"],
+                "input-4": ["Move Right", "JR", "JR"],
+                "input-5": ["Fire / Shoot", "JF", "JFR"],
+                "input-6": ["Super Bomb", "B", "TL"],
+                "input-7": ["Gyroscope (Morph)", "SPACE", "A"],
+                "input-8": ["Power Line (Special)", "X", "B"]
             }
         }
     }
