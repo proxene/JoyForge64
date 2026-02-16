@@ -1,0 +1,17 @@
+{
+    "app": "JoyForge64",
+    "latestVersion": "1.0.0",
+    "minimumSupportedVersion": "1.0.0",
+    "releaseDate": "2026-02-16",
+    "mandatory": false,
+    "changelog": [
+        "Redesigned Settings page",
+        "Improved Home slider performance",
+        "Dynamic Latest Games layout",
+        "Bug fixes and UI polish"
+    ],
+    "download": {
+        "windows": "",
+        "mac": ""
+    }
+}
