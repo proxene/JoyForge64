@@ -410,7 +410,7 @@
         }
     },
     "Out Run": {
-        "header": "https://www.lemon64.com/assets/images/games/screens/out_run/out_run_01.png",
+        "header": "https://www.lemon64.com/assets/images/games/screens/outrun/outrun_01.png",
         "desc": "Out Run is Sega's classic arcade racer adapted for the C64. Drive your Ferrari across branching routes, racing against the clock while enjoying the scenic landscapes.",
         "type": "Racing",
         "port": "1",
