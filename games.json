@@ -415,6 +415,7 @@
         "type": "Racing",
         "port": "1",
         "players": "1",
+        "added": 1771356151,
         "inputs": {
             "player-1": {
                 "input-1": ["Accelerate", "JU", "JU"],
