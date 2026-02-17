@@ -19,7 +19,8 @@ compatible with the C64 Mini & Maxi systems.
 
 > [!IMPORTANT]
 > 🚧 **Project Status: Work in Progress**
->  
+>
+> First Release : End of march 2026
 > This software is still under development.  
 > Breaking changes may occur before the first stable release.
 
