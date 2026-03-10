@@ -25,8 +25,8 @@ compatible with the C64 Mini & Maxi systems.
 
 <br />
 
-If you would like to add a new game to the project, please follow this guide :<br />
-https://github.com/proxene/JoyForge64/wiki/How-to-Request-a-New-Game
+<b>Please do not open GitHub issues to request new game additions.</b><br />
+All game requests must be submitted directly through the JoyForge64 application.
 
 <br />
 
